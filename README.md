@@ -234,10 +234,10 @@ Track brief and form: [SUBMISSION.md](https://github.com/ajeetraina/250-dollar-a
 - [x] Track: **Night Shift**
 - [x] Team: Sherotree
 - [x] Build log: this README
-- [ ] 2-minute demo video (public or unlisted). Record after a real detach/reconnect. Not in this repo.
+- [x] 2-minute demo video: https://youtu.be/3z1ny_3gknA (recorded after a real detach/reconnect)
 - [x] Spend screenshot: **N/A for a pure local run.** Add one only if you used `--cloud`.
 - [x] No secrets in the repo
-- [ ] Submit the form before the deadline
+- [x] Google Form submitted (video link was blank at submit time; re-submit or edit with the link above before Oct 31, 11:59 PM IST)
 
 Copy for the form:
 
@@ -258,7 +258,7 @@ After sbx detach, bump outdated npm pins in a playground app, test them, and ope
 https://github.com/sherotree/nightshift-gardener#dependency-gardener
 
 ### Demo video (link)
-TBD
+https://youtu.be/3z1ny_3gknA
 
 ### Spend screenshot
 N/A for local sbx. Cloud credit is optional.
